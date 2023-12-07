@@ -1,0 +1,23 @@
+h2{
+    color: lawngreen;
+    padding: 30px;
+}
+
+.wrap{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-between;
+   margin-top: 6%;
+}
+
+select {
+    padding: 8px;
+    background-color: red;
+    color: aliceblue;
+    border: solid 2px black;
+    border-radius: 20px;
+}
+
+.filtername{
+    padding: 60px;
+}
